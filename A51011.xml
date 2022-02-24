@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Ashton's ghost to his late companion in the Tower</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51011</idno>
+            <idno type="STC">Wing M2257A</idno>
+            <idno type="STC">ESTC R16704</idno>
+            <idno type="EEBO-CITATION">13033245</idno>
+            <idno type="OCLC">ocm 13033245</idno>
+            <idno type="VID">96801</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51011)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96801)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 745:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Ashton's ghost to his late companion in the Tower</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Axe,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ashton, John, d. 1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:96801:1" rendition="simple:additions"/>
+            <head>
+               <hi>Mr. Aſhtons Ghoſt</hi> To his late Companion in the TOWER.<note place="margin">vid Account of the late horrid, Conſpiracy.</note>
+            </head>
+            <sp>
+               <speaker>Ld. <hi>P.</hi>
+               </speaker>
+               <p>I'm extreamly Miſtaken or I hear ſome Body Walking about the Room—Who is't that's ſo un<g ref="char:EOLhyphen"/>civil to diſturb me at ſuch an un<g ref="char:EOLhyphen"/>ſeaſonable Hour?</p>
+            </sp>
+            <sp>
+               <speaker>Aſh (drawing the Curtains.)</speaker>
+               <p>Start not my L— I'm e'ne your Old <hi>Friend and Fellow Traveller,</hi> returnd from the Dead, much more willingly than we all did from <hi>Graves-End,</hi> when that ill-natured <hi>Tar of a Captain,</hi> wou'd by no means be ſo <hi>generous,</hi> to run away with us, and be Hanged for Company.</p>
+            </sp>
+            <sp>
+               <speaker>L. P.</speaker>
+               <p>You muſt give me leave, good <hi>Mr. Ghoſt,</hi> to be a little cautious how I believe you. We live in very bad times, and if we can't truſt the Inhabi<g ref="char:EOLhyphen"/>tants of this World, 'tis not very likely we ſhou'd find more honeſty among thoſe of the other. How finely were I cheated, if 'tis the Ghoſt of <hi>Eſſex,</hi> which ap<g ref="char:EOLhyphen"/>peares to me (for there's no Fea<g ref="char:EOLhyphen"/>tures in Shades, and I can't tell how to diſtinguiſh ye.) To be ſhort, Show me your Credentials, and I'll believe you. Let me ſee the tother half of the Broken Six Pence and you ſhall know all my Heart the next moment.</p>
+            </sp>
+            <sp>
+               <speaker>M. Aſh.</speaker>
+               <p>Upon the <hi>Word of a Ghoſt,</hi> I gave it to <hi>Charon</hi> for my paſ<g ref="char:EOLhyphen"/>ſage—by the ſume token that he Grumbled Curſedly, and I'd much ado to perſwade the Raſcal to take it inſtead of his <hi>Half-Penny</hi> —But I'll give ye as good a <hi>Token.</hi> Your Lordſhip was this day at the Council, and I'll tell you in your Ear, (leaſt any of the Warders ſhou'd be liſtning) what paſt there, and how you mannag'd your ſelf in ſo tickliſh a juncture.</p>
+            </sp>
+            <sp>
+               <speaker>L. P.</speaker>
+               <p>That any one may do, that has but a good Correſ<g ref="char:EOLhyphen"/>pondence, without being either a <hi>Conjurer or a Devil.</hi> But I've one great Objection, againſt your being my <hi>Old Frievd</hi>—If you are He, were not He and I Sen<g ref="char:EOLhyphen"/>tenced at the ſame time to be Hang'd, Drawn and Quartered— the 19th. of <hi>January,</hi> and was not Sentence. Executed on you the 28th. after? Now were you really my <hi>Old Friend</hi> the <hi>Major,</hi> we ſhou'd have you drop in like the Devil in <hi>D<gap reason="illegible" resp="#OXF" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> Dobſon<g ref="char:punc">▪</g> here
+<pb n="2" facs="tcp:96801:2"/>a Leg, and there an Arm;</hi> firſt your Head, then your Bowels, and then your other <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> when as I ſee you'r as <hi>ſound as a Roach,</hi> and bating a little <hi>Black Ring about the Neck,</hi> no ſign of Hanging, Drawing, and Quartering; all over your whole Body,</p>
+            </sp>
+            <sp>
+               <speaker>M. Aſh.</speaker>
+               <p>Juſt as wiſely might I queſtion, whether you were the <hi>Witty Scotch Vicount,</hi> I was formerly acquainted with, becauſe you have your <hi>Fleſh and Blood ſtill about you,</hi> whereas he was Condenmed to the ſame <hi>Death,</hi> I already ſuffered. The truth is the Government has been <hi>more Merciful</hi> to us both, then we could have expected, or did de<g ref="char:EOLhyphen"/>ſerve. It let me ſcape with <hi>no more then a fair Hanging,</hi> and your L—p with <hi>not ſo much</hi>— if it been't your own fault, and you han't a mind <hi>to Hang your ſelf.</hi>
+               </p>
+               <p>But to detain you in ſuſpence no longer, I'll give you one Se<g ref="char:EOLhyphen"/>cret, and Infallible Token, that <hi>I</hi> am <hi>I,</hi> and that I have no de<g ref="char:EOLhyphen"/>ſign to Impoſe upon you—you know as well as I, that I was by, when you writ your <hi>Me<g ref="char:EOLhyphen"/>moirs,</hi>
+                  <note place="margin">See Account as before</note> and that I per<g ref="char:EOLhyphen"/>ſwaded you to truſt 'em, rather to your <hi>Memory</hi> then ſuffer a poſſibility of their ever riſing up in Judgment againſt you. Beſides I'm ſo far from being upon the Trappan with you, that I deſire no acknowledg<g ref="char:EOLhyphen"/>ment from your L—p of what has paſt, either when you and I were acquainted, or ſince my <gap reason="illegible" resp="#OXF" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap> kindneſs, and upon account of old <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to infor<gap reason="illegible" resp="#OXF" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> in ſome <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> may <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ve<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch con<g ref="char:EOLhyphen"/>cern you, and where in my Judg<g ref="char:EOLhyphen"/>men is more alter'd, then you'd eaſily imagine, ſince I came into theſe Black Territories, where your Lordſhip is with as much im<g ref="char:EOLhyphen"/>patience expected every moment, as our Maſters great Enemy was at the <hi>Hague.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L. P.</speaker>
+               <p>Nay, now you'd make me ſuſpect you more then ever — had you not gi<g ref="char:EOLhyphen"/>ven me ſuch a Token as I can't anſwer. I'ſt poſſible that you who have been a <hi>Martyr</hi> for the Cauſe, and ſlid <hi>of the Stage</hi> with ſo much Decorum and Bravery, ſhou'd alter <hi>your Principles</hi> in 'tother World, when you dy'd for 'em here? I thought you had been all firm enough in that; whatever I may be in this, and that no change of place or condition, nei<g ref="char:EOLhyphen"/>ther Heaven or Hell cou'd ever have made you ſtarted an inch from what you formerly profeſſed.</p>
+            </sp>
+            <sp>
+               <speaker>Aſh.</speaker>
+               <p>My L—d, I come from a Countrey where Com<g ref="char:EOLhyphen"/>pliments are quite out of Faſhi<g ref="char:EOLhyphen"/>on; where we ſee things as they are in their own Natures, ſtripe from all thoſe odd Diſgniſes, which Prejudice, Intereſt, or Humour, here dreſſes 'em in and where you'd be certainly of my mind, the very next moment after you come thi<g ref="char:EOLhyphen"/>ther, and which in a few more will make you forget moſt of the Politicks, which you have hitherto been learning all your life long.</p>
+            </sp>
+            <pb n="3" facs="tcp:96801:2"/>
+            <sp>
+               <speaker>L. P.</speaker>
+               <p>Torment me then no longer, but by our Old Friendſhip, if you are him whoſe<g ref="char:punc">▪</g> Name you take, inform me what Sentiments you had of thoſe things we have ſo oft diſcours'd, as ſoon as you Arrived in the other World.</p>
+            </sp>
+            <sp>
+               <speaker>M. Aſh.</speaker>
+               <p>You have heard, I ſuppoſe, how unconcernedly I went off from this, and that I dyed a <hi>Traytor againſt my Country,</hi> perhaps with as much Reſolution as <hi>Ruſſel</hi> and the reſt of 'em, Died Martyrs for it.</p>
+            </sp>
+            <sp>
+               <speaker>L. P.</speaker>
+               <p>I have, and of the kindneſs of your Ghoſtly. Fathers — How Zealous the little Spark of <hi>I</hi>— was to clap you upon the <hi>Shoulder in the laſt Conflict,</hi> and what a deal of Maudlin grief their was at parting with ſo good a Friend, when they'd have made ſuch excellent Company to have gon with you: I have heard too of your Speech deliver'd to the Sheriff, which our Party Swear is as <hi>Infallible</hi> as any Chap<g ref="char:EOLhyphen"/>the in the Bible, and is kept from the <hi>Laity</hi> for the ſame Reaſon that the Papiſts keep the Scriptures from 'em.</p>
+            </sp>
+            <sp>
+               <speaker>M. Aſh.</speaker>
+               <p>I confeſs, wou'd good ſtore of my Quondam Friends, take the ſame way, and never ſpeak Treaſon but when at the Gallows; the Government might find it worth the while, to Print their Speeches, as faſt as they or the Club cou'd make 'em.—But otherwiſe, I my ſelf can ſee no Reaſon why any Man ſhould Print a Libel againſt himſelf. The Friends of the Government, cannot ſure be ſo weak, as to deſire the gratification of a Fooliſh Curioſity, at the Expence of a real damage to what they reſpect and honour, nor can its E<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emies with modeſty expect to have their Fancies tickled with a meſs of Treaſon, <hi>Cum Privilegio.</hi> Though all Truths wou'd bear the light, all Lies won't, and where there are more Fools then Wiſe; as undoubt<g ref="char:EOLhyphen"/>edly may be found all the World over, 'tis no hurt to keep Edg'd Tools from 'em, leſt they ſhould make uſe of 'em to cut their own Fingers, or an honeſter and wiſer Mans throat.</p>
+            </sp>
+            <sp>
+               <speaker>L. P.</speaker>
+               <p>Why, you argue as if you were all perfect <hi>Williamites</hi> in 'tother World, and deſign'd to make us ſo in this. I expected far different diſcourſe from the <hi>Ghoſt of Major</hi> Aſhton.</p>
+            </sp>
+            <sp>
+               <speaker>M. Aſh.</speaker>
+               <p>I was juſt telling you what Converted me. The very <hi>FIRST STEP</hi> that I made into the Infernal Regions, before my body was well covered in St. <hi>Faiths,</hi> (whither I expect ſhortly to have any Tomb ſtone worn as deep with the knees of thoſe good Catholicks, who come to adore my Heretical Duſt, as St. <hi>Patricks</hi> Well, or the Mar<g ref="char:EOLhyphen"/>bles before the Shrine of <hi>Thomas</hi> a <hi>Becket:</hi>) But who ſhou'd I ſee there but the Protomartyr of the Cauſe, poor <hi>Croſs,</hi> who was Hang'd 'tother day, (and ſhow'd us what we muſt all come to) for nothing, but a <hi>little Voyage that he made aboard the</hi> French <hi>Fleet,</hi> when they lay upon our Coaſt laſt Summer. He had about him the whole <hi>Rabble of Devils</hi> at his firſt Arrival, and looks exactly like a <hi>Pick-Pocket,</hi> when fallen into the clutches of their mortal Mob. However, they were civiler to him then thoſe wou'd have been above Ground, and gave him Law for his Life, hurrying him away before Judg <hi>Aedeus,</hi> who was then trying Cauſes at <hi>Pluto</hi>'s Court, where appeared at leaſt a thouſand Witneſes, againſt him ſummoned by his own Conſcience, and two or three falſe Loons of Devils, who firſt tempted him to ſin, and afterwards diſcovered him, all theſe gave their Affidavits, that he endeavoured to betray his Country, and Correſponded with its inveterate, and declared Enemies—and upon the clear proof of the whole, he was immediately Sentenced to be caſt into the ſame Copper, where <hi>Judas, Heroſtratin, Guy Faux, Tarperia,</hi> and all the odious Traytors to their Coun<g ref="char:EOLhyphen"/>try, or Friends are to be tortured, till a <hi>Ja<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bite</hi> loves the <hi>Proteſtant Religion,</hi> and hates the King of <hi>France</hi> and his own good Godfather —your L—p may eaſily gueſs how much this Allarm'd me — I immediately fell a trembling, and 'twas well I was nothing but Spirit, for had I been ſtill chained to a Body, ſomething not ve<g ref="char:EOLhyphen"/>ry pleaſant about me had certainly betray'd me.</p>
+               <p>If this Fool of a Rogu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> has ſuch hard treatment, what thought I, am I to expect, if once the truth is known to theſe grim Juſtices? On the whole, I e'ne thought it the wiſeſt way to ſtep to the Bar of my own accord, where falling on my knees, I e'ne fairly confeſſed the whole Fact before any one accuſed me<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that I with <hi>ſeveral other falſe Traytors had Conſpired to overturn and deſtroy my own Country and Government,</hi> and that this poor wretch juſt then Condemned, had a much leſs ſhare in the Villany, then I my ſelf had.</p>
+            </sp>
+            <sp>
+               <speaker>L. P</speaker>
+               <p>Was this the way to obtain any Mitigation, or wou'd it not rather make you fare worſe than he that went before you?</p>
+            </sp>
+            <sp>
+               <speaker>M. Aſh.</speaker>
+               <p>There was no other Remedy — I knew 'twas but broyling for't at laſt. But beſides I found out an Expedient which got me at leaſt a Reprieve, whatever may become of a Pardon, I <hi>Humbly propoſed to the Judges,</hi> who lookt much more angry upon me, then thoſe at the Old Eaily that I'd return agen to Life, and perſwade thoſe Perſons who were concer<g ref="char:EOLhyphen"/>ned with me in the ſame Villanies, to abandon their Curſed deſigns, and diſcover all they knew ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, giv<g ref="char:EOLhyphen"/>ing my Parole of Honour to come back agen as ſoon as I had accompliſhed my Errand.</p>
+               <p>This wrought ſo much on the Sooty-Faced Gentlemen that I obtain'd leave, and accordingly the firſt Perſons I addreſs my ſelf to is your L—p, both upon account of the paſt intimacy which has been be<g ref="char:EOLhyphen"/>tween us, and becauſe it may conduce
+<pb n="4" facs="tcp:96801:3" rendition="simple:additions"/>very much to the Mitigation of my Tor<g ref="char:EOLhyphen"/>ments, if I can take off ſo <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> able a Perſon as your L—p f<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m that cauſe which I am like to Suffer ſo much for in tother World, as well as this.</p>
+            </sp>
+            <sp>
+               <speaker>L. P.</speaker>
+               <p>
+                  <hi>You tell me wonders</hi>— but 'tis ſtill a greater to me how Hell comes to be ſo angry with our deſign, or why, as our Predeceſſors in the Gunpowder Plot uſed to ſay, Satan diſcovered what we were about, or is ſince ſo mightily con<g ref="char:EOLhyphen"/>cerned at it; ſince had the <hi>Grand Lewis</hi> powr'd his Army in, as we had propoſed, thoſe below had undoubtedly receiv'd <hi>whole Legions</hi> of Souls every day croud<g ref="char:EOLhyphen"/>ing down to e'm, from every part of the Conquered Nation.</p>
+            </sp>
+            <sp>
+               <speaker>M. Aſh.</speaker>
+               <p>Notwithſlanſling all this they fear the exam<g ref="char:EOLhyphen"/>ples and tho they love <hi>Treaſon</hi> very well, I find they hate the <hi>Traytor</hi> as much as any of our mortal Politi<g ref="char:EOLhyphen"/>cian<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. For ſhou'd thoſe who live under ſo happy a Government as the <hi>Engliſh</hi> at preſent enjoy (ſay they among themſelves) once Rebel againſt it and bring in the <hi>French,</hi> to torment enſlave and deſtroy them if once they accompliſh their deſign, all <hi>Europe</hi> it un<g ref="char:EOLhyphen"/>doubtedly their own and in that as good as all the world when once the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rand <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> is <hi>
+                     <g ref="char:V">Ʋ</g>niverſal M<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>arch</hi> of the upper <hi>World</hi> ten to one but hee'll h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve ſuch a <hi>Freak</hi> come into his Head as <hi>Alexander,</hi> the Great had and have a Months mind for a Touch at the other <hi>World</hi> when he has conquer'd all his own and among theſe ours lies moſt open to his attempts both becauſe, he's now very old and <hi>Sinfull</hi> and not likely to ſtay long above before he gives us a viſit and makes his laſt <hi>Campaign</hi> amongſt us and becauſe his <hi>Luidores</hi> have already made him ſuch a party here by the help of his many <hi>Agents,</hi> which are come<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it her before him that <hi>Lucifer,</hi> himſelf would hardly be ſafe in his Throne, but be daily in danger of <hi>Abdication</hi> and being the laſt conquſt to the <hi>French</hi> Arms and Policies.</p>
+            </sp>
+            <sp>
+               <speaker>L. P.</speaker>
+               <p>What courſe then wou'd you adviſe me to take in order tomy own happineſs and yours — You know ſeveral Gentlemen of my acquaintance and yours, will not be flack to tell me I muſt certainly have <hi>School Butter</hi> in 'tother World, if <hi>I tell Tales our of School</hi> in this; and o' 'tother ſide, dare pawn their own Souls for mine, that if I hold right to the Scaffold, my Soul ſhall be in Paradice, as ſoon as my <hi>Head</hi> leaps off from my <hi>Shoulders.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Aſh.</speaker>
+               <p>'Tis at your Liberty to believe them or me, as your L—p thinks fit. But to be free, the Queſtion lies thus,—whether you can expect Heaven for endea<g ref="char:EOLhyphen"/>vouring to Ruin Earth, and whether 'tis ſo Meritori<g ref="char:EOLhyphen"/>ous a ti<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, as ſome pretend, whatever they think, to <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Native <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> bar<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> or <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> L—p <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Paſſion for <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in the <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> di<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ged my <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> like a Ghoſt of Honour—In the <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> I'll about the reſt of my E<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>biſſie, and ſee <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> I ſhall meet with among the remainder of my <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Friends.</p>
+            </sp>
+            <sp>
+               <speaker>L. P.</speaker>
+               <p>If common Intereſts and Dangers have any Power, I conjure you by them to ſtay a Minute longer, and reſolve me 2 or 3 very material Queſtions.</p>
+            </sp>
+            <sp>
+               <speaker>M. Aſh.</speaker>
+               <p>We don't forget every thing as ſoon as our Moths are cold, and therefore if I'm not forbidden by the Laws of the dark Kingdom, I'll give you all the ſatisfaction I'm able.</p>
+            </sp>
+            <sp>
+               <speaker>L. P.</speaker>
+               <p>My firſt Query is—<hi>which will be out firſt, this Year, the</hi> French <hi>Fleet, or the</hi> Engliſh?</p>
+            </sp>
+            <sp>
+               <speaker>M. Aſh.</speaker>
+               <p>In that my L- your <hi>Memoires</hi> have fail'd you. The dilligence of the Govern<g ref="char:EOLhyphen"/>ment, and readineſs of the Seamen, the en<g ref="char:EOLhyphen"/>couragement of the Proclamation; Reform<g ref="char:EOLhyphen"/>ing Officers, and Kicking <hi>Old Grizzel out of doors,</hi> have brought matters into ſo good a poſture, that the Fleet is now in better Or<g ref="char:EOLhyphen"/>der then 'twas laſt Year by <hi>May,</hi> and where<g ref="char:EOLhyphen"/>as your Judgment was; 'twou'd not be out be<g ref="char:EOLhyphen"/>fore <hi>Ju<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> you'll certainly ſee a great part on't ready before the end of this Month.</p>
+            </sp>
+            <sp>
+               <speaker>L. P.</speaker>
+               <p>How did Mr. <hi>Reading</hi> and Mrs. <hi>Reading</hi> receive the News of our diſappoint<g ref="char:EOLhyphen"/>ment—our Factors being broken, our being nonſuited in our Law buſineſs, and the Lord of the Mannors, ſitting faſter, and being more lov'd and fear'd th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ever,—you know my meaning—for you are no ſtranger to this Language.</p>
+            </sp>
+            <sp>
+               <speaker>M. Aſh.</speaker>
+               <p>Mr. <hi>Reading</hi> was almoſt in as bad, a condition as his Grandfather uſed to be, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> poor Mrs. <hi>Reading</hi> was in ten times more fright and pain, then at her laſt Lying In.</p>
+            </sp>
+            <sp>
+               <speaker>L. P.</speaker>
+               <p>One word more and I've done— ſhall I ſave my Life, or muſt I follow <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n.</p>
+            </sp>
+            <sp>
+               <speaker>M. Aſh.</speaker>
+               <p>— <hi>Aſk your L—y that</hi>—th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you your ſelf know whether you can, or will do any thing to deſerve it. But my time is paſt— <hi>I muſt to the reſt</hi>—Adue.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON.</hi> printed for T. Axe 1691</p>
+         </div>
+      </back>
+   </text>
+</TEI>
